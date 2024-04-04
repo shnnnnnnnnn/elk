@@ -1,1 +1,0 @@
-import{an as o,o as n,c as s,j as t,ao as c,l as r,t as a}from"./CMcu4vOi.js";const _={},i={flex:"~ col","items-center":""},d=t("div",{"i-ri:forbid-line":"","text-10":"",mt10:"",mb2:""},null,-1),l={"text-lg":""};function m(e,f){return n(),s("div",i,[d,t("div",l,[c(e.$slots,"default",{},()=>[r(a(e.$t("common.not_found")),1)])])])}const u=o(_,[["render",m]]);export{u as _};
